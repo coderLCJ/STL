@@ -23,6 +23,6 @@ Container
 * 映射(map) 由{键，值}对组成的集合，以某种作用于键对上的谓词排列 <map>
 * 多重映射(multimap) 允许键对有相等的次序的映射 <map>
 
-[study1](https://blog.csdn.net/piaoxuezhong/article/details/54348787)\
-[study2](https://blog.csdn.net/sinat_35866463/article/details/76523216)
+[study1](https://blog.csdn.net/piaoxuezhong/article/details/54348787"关于STL的详细用法的博客")\
+[study2](https://blog.csdn.net/sinat_35866463/article/details/76523216"关于STL的详细用法的博客")
 
