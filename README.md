@@ -24,5 +24,5 @@ Container
 * 多重映射(multimap) 允许键对有相等的次序的映射 <map>
 
 [study1](https://blog.csdn.net/piaoxuezhong/article/details/54348787"关于STL的详细用法的博客")\
-[study2](https://blog.csdn.net/sinat_35866463/article/details/76523216"关于STL的详细用法的博客")
-
+[study2](https://blog.csdn.net/sinat_35866463/article/details/76523216"关于STL的详细用法的博客")\
+![](http://img0.imgtn.bdimg.com/it/u=2458325739,2950339567&fm=26&gp=0.jpg)
