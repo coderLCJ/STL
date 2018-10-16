@@ -22,7 +22,6 @@ Container
 * 多重集合(multiset) 允许存在两个次序相等的元素的集合 <set>
 * 映射(map) 由{键，值}对组成的集合，以某种作用于键对上的谓词排列 <map>
 * 多重映射(multimap) 允许键对有相等的次序的映射 <map>
-
+![](http://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=STL&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&cs=679724407,3392646776&os=3998727650,1037746190&simid=0,0&pn=17&rn=1&di=186944142220&ln=1786&fr=&fmq=1539664994272_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fg-search1.alicdn.com%2Fbao%2Fuploaded%2Fg-search2.alicdn.com%2Fbao%2Fuploaded%2Fi4%2FTB1Y9cvGVXXXXcWXVXXXXXXXXXX_%2521%25210-item_pic.jpg_400x400.jpg&rpstart=0&rpnum=0&adpicid=0)
 [study1](https://blog.csdn.net/piaoxuezhong/article/details/54348787"关于STL的详细用法的博客")\
 [study2](https://blog.csdn.net/sinat_35866463/article/details/76523216"关于STL的详细用法的博客")\
-![32](http://img0.imgtn.bdimg.com/it/u=2458325739,2950339567&fm=26&gp=0.jpg)
